@@ -20,7 +20,7 @@ This is a javascript project and i am just trying to imporove my skill with the 
 
 **Screenshots of My project**
 
-<img src=""C:\Users\Chumki Chakraborty\OneDrive\Desktop\Fr2 Module Test\Screenshot 1.png"" height="80%" width="80">
+<img src=""C:\Users\Chumki Chakraborty\OneDrive\Desktop\Fr2 Module Test\Screenshot 1.png" height="80%" width="80">
 
 **Future Enhancements:**
 
